@@ -48,7 +48,7 @@ mvnw spring-boot:run
 
 Take a look at http://localhost:8080/swagger-ui.html.
 
-# Check the actuator
+# Check the Actuator
 
 Take a look at actuator endpoints at http://localhost:8080/actuator.
 
