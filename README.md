@@ -19,7 +19,7 @@
 
 ## Direct ancestor
 
-[- actuator](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
+[- actuator](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
 
 ---
 
