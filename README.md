@@ -4,11 +4,12 @@
     </a>
 </div> 
 
-# HelloWorld on Spring Boot
+# HelloWorld on Spring Boot with actuator
 
 
 ## Feature tags
 
+- actuator
 - maven
 - spring-boot
 - starter
@@ -16,9 +17,9 @@
 
 ---
 
-## Direct descendant
+## Direct ancestor
 
-[+ flyway, postgres, spring-data-jpa, testcontainers, todo](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
+[- actuator](https://github.com/softspiders/spring-boot-postgres-testcontainers-archunit-restful-swagger-restassured-selenium-hexagonal-todo/tree/spring-boot-psql-testcontainers-todo#readme)
 
 ---
 
@@ -39,6 +40,10 @@
 ```sh
 mvnw spring-boot:run
 ```
+
+# To check the actuator
+
+Take a look at actuator endpoints at http://localhost:8080/actuator.
 
 ### License
 
