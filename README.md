@@ -18,8 +18,10 @@
 ---
 
 ## Direct ancestor
-
 [- actuator](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
+
+## Direct descendant
+[+ prometheus](https://github.com/AlexanderLapygin/spring-boot-prometheus/tree/main#readme)
 
 ---
 
