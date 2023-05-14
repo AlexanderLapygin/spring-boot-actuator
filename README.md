@@ -41,7 +41,7 @@
 mvnw spring-boot:run
 ```
 
-# To check the actuator
+# Check the actuator
 
 Take a look at actuator endpoints at http://localhost:8080/actuator.
 
