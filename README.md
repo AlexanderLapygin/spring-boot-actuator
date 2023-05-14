@@ -13,6 +13,7 @@
 - maven
 - spring-boot
 - starter
+- swagger
 - template
 
 ---
